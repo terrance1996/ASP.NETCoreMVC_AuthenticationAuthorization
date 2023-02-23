@@ -1,0 +1,728 @@
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.StaticWebAssets.xml
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.AssemblyReference.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Pack.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.props
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.props
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.props
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUserInRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.StaticWebAssets.xml
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.AssemblyReference.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Pack.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.props
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.props
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.props
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUserInRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
+F:\ASP .NET CORE MVC\Old\PRACTICE\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.StaticWebAssets.xml
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.AssemblyReference.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Pack.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.props
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.props
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.props
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUserInRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
+F:\ASP .NET CORE MVC\New Practice\AuthenticationAuthorization\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.StaticWebAssets.xml
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.AssemblyReference.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Pack.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.props
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.props
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.props
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUserInRole.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
+F:\ASP .NET CORE MVC\Completed\RoleClaims\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-ECommerce-9dd525d8-a1f3-4641-9aef-3e9712f17510</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Migrations\20230117033202_Initial Migration - Identity Tables Added in SQL Server.cs" />
+    <Compile Remove="Data\Migrations\20230117033202_Initial Migration - Identity Tables Added in SQL Server.Designer.cs" />
+    <Compile Remove="Data\Migrations\20230117034344_Extra Column Added in Identity User table- Name.cs" />
+    <Compile Remove="Data\Migrations\20230117034344_Extra Column Added in Identity User table- Name.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.32" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.32" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.32" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.32" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\AccessDenied\" />
+  </ItemGroup>
+
+</Project>

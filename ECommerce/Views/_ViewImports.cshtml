@@ -1,0 +1,9 @@
+﻿@using ECommerce
+@using ECommerce.Models
+@using ECommerce.ViewModels
+@using Microsoft.AspNetCore.Authorization;
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<ApplicationUser> signInManager
+@inject IAuthorizationService authorizationService
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers

@@ -1,0 +1,125 @@
+﻿@model EditUserViewModel
+@{
+    ViewData["Title"] = "EditUser";
+}
+
+<h2 class="text-center mb-3 p-4 alert-info rounded shadow">Edit User</h2>
+
+<form method="post">
+
+    <div class="row">
+        <div class="col-12 mb-3">
+
+            <div class="col-10 m-auto p-5 shadow rounded">
+                <div class="form-group row">
+
+                    <div class="col">
+                        <h6>User ID </h6>
+                        <input asp-for="Id" disabled class="form-control" />
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col">
+                        <h6>Full Name</h6>
+                        <input asp-for="Firstname" class="form-control shadow" />
+                        <span asp-validation-for="Firstname" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col">
+                        <h6>Username</h6>
+                        <input asp-for="Userame" class="form-control shadow" />
+                        <span asp-validation-for="Userame" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col">
+                        <h6>Email</h6>
+                        <input asp-for="Email" class="form-control shadow" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+
+
+                <div asp-validation-summary="All" class="text-danger">
+                </div>
+
+                <div class="form-group row">
+                    <div class="col">
+                        <button type="submit" class="btn btn-outline-primary shadow">Update</button>
+                        <a asp-action="ListUsers" class="btn btn-outline-danger shadow">Cancel</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-6">
+            <div class="col-10 m-auto p-5 shadow rounded">
+                <div class="row">
+                    <div class="col-12">
+                        <h4 class="shadow p-2 rounded text-center">User Roles</h4>
+                    </div>
+
+                    <div class="col-12 p-2">
+
+                        @if (Model.Roles.Any())
+                        {
+                            foreach (var role in Model.Roles)
+                            {
+                                <h6 class="bg-info text-white p-2 rounded">@role</h6>
+                            }
+                        }
+                        else
+                        {
+                            <h5 class="bg-info text-white p-2 rounded">None at the moment</h5>
+                        }
+
+                    </div>
+
+                    <div class="col-12 mt-3 text-right">
+                        <a class="btn btn-outline-secondary shadow" asp-action="ManageUserRoles" asp-controller="Administration" asp-route-userId="@Model.Id">Add or Remove Roles</a>
+                        @* <a class="btn btn-outline-danger shadow" asp-action="CreateRole" asp-controller="Administration">Remove Users</a>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-6">
+            <div class="col-10 m-auto p-5 shadow rounded">
+                <div class="row">
+                    <div class="col-12">
+                        <h4 class="shadow p-2 rounded text-center">User Claims</h4>
+                    </div>
+
+                    <div class="col-12 p-2">
+
+                        @if (Model.Claims.Any())
+                        {
+                            foreach (var claims in Model.Claims)
+                            {
+                                <h6 class="bg-info text-white p-2 rounded">@claims</h6>
+                            }
+                        }
+                        else
+                        {
+                            <h5 class="bg-info text-white p-2 rounded">None at the moment</h5>
+                        }
+
+                    </div>
+
+                    <div class="col-12 mt-3 text-right">
+                        <a class="btn btn-outline-secondary shadow" asp-action="ManageUserClaims" asp-controller="Administration" asp-route-userId="@Model.Id">Add or Remove Claims</a>
+                        @* <a class="btn btn-outline-danger shadow" asp-action="CreateRole" asp-controller="Administration">Remove Users</a>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</form>
+

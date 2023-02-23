@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ApplicationUser>
+
+
+@{
+    ViewData["Title"] = "ListUsers";
+}
+
+<h1 class="text-center mb-3 p-4 alert-info rounded shadow">ALl Users</h1>
+
+@if(Model.Any()){
+
+    <div class="row">
+        <div class="col-8 m-auto">
+            <a class="btn btn-primary mb-3 shadow px-5" asp-area="Identity" asp-page="/Account/Register">Add A New User</a>
+        </div>
+    </div>
+
+    foreach (var user in Model)
+    {
+
+        <div class="row mb-2">
+            <div class="col-10 m-auto">
+                <div class="col-10 m-auto p-4 shadow rounded">
+                    <div class="col">
+                        <h6 class="text-center">User Id : @user.Id</h6>
+                    </div>
+                    <div class="col mt-3 mb-4 p-5 shadow rounded">
+                        <h2 class="text-center mb-2">@user.FName</h2>
+                        <h6 class="text-center">username : @user.UserName</h6>                       
+                    </div>
+                    <div class="col text-right">
+                        <form asp-action="DeleteUser" asp-route-id="@user.Id" method="post">
+                            <a class="btn btn-outline-success shadow" asp-action="EditUser" asp-controller="Administration" asp-route-id="@user.Id">Edit</a>
+                            <button type="submit" class="btn btn-outline-danger shadow" onclick="return confirm('Are you sure???..You want ot delete user : @user.UserName')">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <div class="card">
+        <div class="card-header">
+            No Users Created Yet
+        </div>
+
+        <div class="card-body">
+            <h5 class="card-title">
+                Use the Button Below to create A Role
+            </h5>
+
+            <a class="btn btn-primary" asp-action="Register" asp-controller="Account">Add A New User</a>
+
+        </div>
+
+    </div>
+}
